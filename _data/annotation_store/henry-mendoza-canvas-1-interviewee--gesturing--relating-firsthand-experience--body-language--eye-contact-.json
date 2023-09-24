@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>We interviewed families. Thousands of families throughout the city, and asked them – because this was integrating <i>all</i> the schools. </html>",
+        "value": "We interviewed families. Thousands of families throughout the city, and asked them – because this was integrating all the schools. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

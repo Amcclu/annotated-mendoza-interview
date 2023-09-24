@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>In fact, it was a big step to go beyond that. Or what else can you do? Well, we didn't want to be accused of waving flags and being too <i>far</i> out there. But we also wanted to recognize things like discrimination against the photographer. So we stepped up and started to do it. </html>",
+        "value": "In fact, it was a big step to go beyond that. Or what else can you do? Well, we didn't want to be accused of waving flags and being too far out there. But we also wanted to recognize things like discrimination against the photographer. So we stepped up and started to do it. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

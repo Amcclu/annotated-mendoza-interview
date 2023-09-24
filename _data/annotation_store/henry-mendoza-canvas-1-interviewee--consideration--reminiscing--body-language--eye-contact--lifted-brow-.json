@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>And I guess, you know, to us, all we know is that's where we met. I never – I'm not sure if he had finished college or not. But I know he was already connected to <i>The LA Times</i>. And I think he had been an intern there too. And that's where he wound up working and then developing a very great career.</html>",
+        "value": "And I guess, you know, to us, all we know is that's where we met. I never – I'm not sure if he had finished college or not. But I know he was already connected to The LA Times. And I think he had been an intern there too. And that's where he wound up working and then developing a very great career.",
         "format": "text/plain",
         "purpose": "commenting"
       },

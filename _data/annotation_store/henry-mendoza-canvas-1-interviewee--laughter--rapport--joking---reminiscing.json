@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>That was a <i>long</i> time ago. Before you were born. *laughs* </html>",
+        "value": "That was a long time ago. Before you were born. *laughs* ",
         "format": "text/plain",
         "purpose": "commenting"
       },

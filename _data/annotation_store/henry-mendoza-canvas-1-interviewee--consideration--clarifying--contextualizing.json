@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>Riverside was a great place for a lot of reasons. And Casablanca was the barrio, and it was <i>one</i> of the barrios. </html>",
+        "value": "Riverside was a great place for a lot of reasons. And Casablanca was the barrio, and it was one of the barrios. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

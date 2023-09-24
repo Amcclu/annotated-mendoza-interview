@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>He was there as an intern. That's really the only place he ever...did any work outside of <i>The LA Times</i>. </html>",
+        "value": "He was there as an intern. That's really the only place he ever...did any work outside of The LA Times. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

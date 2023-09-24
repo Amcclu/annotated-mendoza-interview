@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>Probably before your <i>parents</i> were born. Nineteen uh...sixty-seven.</html>",
+        "value": "Probably before your parents were born. Nineteen uh...sixty-seven.",
         "format": "text/plain",
         "purpose": "commenting"
       },

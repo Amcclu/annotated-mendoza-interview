@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>The first time I wrote a news story, at <i>The Press Enterprise</i>, when I when I moved out of sports and moved into news, there was a phone call... </html>",
+        "value": "The first time I wrote a news story, at The Press Enterprise, when I when I moved out of sports and moved into news, there was a phone call... ",
         "format": "text/plain",
         "purpose": "commenting"
       },

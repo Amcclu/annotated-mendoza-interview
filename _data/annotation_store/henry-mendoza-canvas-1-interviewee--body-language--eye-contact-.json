@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>I got a <i>great</i> opportunity and education there. So I really enjoyed it.</html>",
+        "value": "I got a great opportunity and education there. So I really enjoyed it.",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -45,7 +45,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>I met somebody who turned out to be a <i>longtime</i> and great friend, Frank Del Olmo. </html>",
+        "value": "I met somebody who turned out to be a longtime and great friend, Frank Del Olmo. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

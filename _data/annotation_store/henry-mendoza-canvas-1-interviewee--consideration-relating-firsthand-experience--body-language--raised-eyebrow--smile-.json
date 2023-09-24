@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>Interestingly...when I was offered a job by <i>The LA Times</i>, they offered me more money than Frank Del Olmo was making. And I told Frank, I said, \"Here's what they're offering\" And he says  \"hmm.\" We were good friends. He used that to leverage himself a raise. </html>",
+        "value": "Interestingly...when I was offered a job by The LA Times, they offered me more money than Frank Del Olmo was making. And I told Frank, I said, \"Here's what they're offering\" And he says  \"hmm.\" We were good friends. He used that to leverage himself a raise. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

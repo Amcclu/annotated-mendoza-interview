@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>I used to read the – I read <i>The LA Times</i> and <i>The San Bernardino Sun</i>. </html>",
+        "value": "I used to read the – I read The LA Times and The San Bernardino Sun. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

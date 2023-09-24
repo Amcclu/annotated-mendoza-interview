@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>That's part of why I stepped forward and <i>stayed involved</i>. </html>",
+        "value": "That's part of why I stepped forward and stayed involved. ",
         "format": "text/plain",
         "purpose": "commenting"
       },

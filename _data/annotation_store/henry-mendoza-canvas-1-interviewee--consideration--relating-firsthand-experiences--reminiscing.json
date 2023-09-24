@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>In fact...when I was at the <i>Press Enterprise</i> working sports on a part time basis and going to college...</html>",
+        "value": "In fact...when I was at the Press Enterprise working sports on a part time basis and going to college...",
         "format": "text/plain",
         "purpose": "commenting"
       },

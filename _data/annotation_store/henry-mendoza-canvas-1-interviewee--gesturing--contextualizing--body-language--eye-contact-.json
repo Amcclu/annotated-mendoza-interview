@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<html>The Riverside...School District – this is <i>way</i> before anybody else – quietly, decided to integrate the schools. </html>",
+        "value": "The Riverside...School District – this is way before anybody else – quietly, decided to integrate the schools. ",
         "format": "text/plain",
         "purpose": "commenting"
       },
